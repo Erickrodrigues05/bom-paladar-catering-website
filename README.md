@@ -13,14 +13,17 @@ Website for Bom Paladar, a catering business in Luanda, Angola.
 ## Highlights
 
 - **Catalog ordering** by the dozen.
-- **Buffet budget calculator:** enter the number of guests, get a price range, send it on WhatsApp.
-- **Responsive** for mobile and desktop.
+- **Buffet budget calculator:** enter the number of guests, get a price range, send it on WhatsApp in one tap.
+- **Events showcase** for buffets and coffee breaks.
+- **Mobile first** and responsive.
 
-## Screenshots
+## Mobile
 
-| Desktop | Mobile |
-|---|---|
-| <img src="screenshots/desktop.png" width="520"> | <img src="screenshots/mobile.png" width="200"> |
+<img src="screenshots/mobile.png" alt="Bom Paladar · Catering Website mobile screens" width="100%">
+
+## Desktop
+
+<img src="screenshots/desktop.png" alt="Bom Paladar · Catering Website desktop" width="100%">
 
 ## Stack
 
@@ -36,4 +39,8 @@ The source code is private because it belongs to the client. I am happy to walk 
 
 ---
 
-Built by **[Erick Rodrigues](https://github.com/Erickrodrigues05)**, Full-Stack Developer · erickrodrigues781@gmail.com
+<div align="center">
+
+Built by **[Erick Rodrigues](https://github.com/Erickrodrigues05)**, Full-Stack Developer · [erickrodrigues781@gmail.com](mailto:erickrodrigues781@gmail.com)
+
+</div>
